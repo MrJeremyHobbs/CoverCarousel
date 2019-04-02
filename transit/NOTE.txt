@@ -1,0 +1,5 @@
+Images that are of sufficient quality will download here.
+
+From this folder they will be upsized or downsized to fit the screen.
+
+Future versions will eliminate this folder in favor of memory-based processing.

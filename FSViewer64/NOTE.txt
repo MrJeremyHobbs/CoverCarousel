@@ -1,0 +1,5 @@
+Install a portable copy of FSViewer here:
+
+https://www.faststone.org/FSIVDownload.htm
+
+Last tested version: 6.4
